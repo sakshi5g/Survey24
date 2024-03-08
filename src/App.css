@@ -1,0 +1,70 @@
+
+.section{
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+}
+
+.card {
+    width: 30%;
+    padding: 2%;
+}
+
+.TypeBox {
+    background: black;
+    opacity: 0.9;
+}
+
+#root,body{
+    background-image: url("D:\Nu10\reactsurvey\src\images\bgImg.jpg");
+}
+.SurveyTypeBox{
+    height: 800px;
+}
+
+.survey-form{
+    width: 850px;
+    height: auto;
+    border-radius: 7px;
+    background: white;
+    opacity: 0.9;
+}
+#root{
+    height: 100vh;
+}
+.vote{
+    height: 40px;
+    width: 80px;
+}
+.survey{
+    width: 300px;
+}
+.links{
+    text-decoration: none;
+    color: black;
+}
+.progress{
+    height: 10px !important;
+}
+.success{
+    background: #a1ff75 !important;
+}
+.hidden{
+    display: none;
+}
+
+.searchContainer{
+    margin-top: 15%;
+}
+
+.QuestionType{
+    margin-top: 25%;
+   
+}
+
+.navbar-bottom {
+    min-height: 20%;
+    margin-top: 10%;
+    background-color: #28364f;
+    color:#FFFFFF;
+    }
