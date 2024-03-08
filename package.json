@@ -2,7 +2,7 @@
   "name": "reactsurvey",
   "version": "0.1.0",
   "private": true,
-  "homepages":"https://sakshi5g.github.io/React24",
+  "homepages":"https://sakshi5g.github.io/Survey24",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -22,7 +22,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
   "predeploy": "npm run build",
-  "deploy": "gh-pages -d build -r https://github.com/sakshi5g/React24.git"
+  "deploy": "gh-pages -d build -r https://github.com/sakshi5g/Survey24.git"
 
   },
   "eslintConfig": {
