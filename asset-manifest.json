@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/sakshi5g/reactsurvey/static/css/main.6f637ab6.css",
+    "main.js": "/sakshi5g/reactsurvey/static/js/main.136d6dd2.js",
+    "static/media/slider1.jpg": "/sakshi5g/reactsurvey/static/media/slider1.ca3253d1f51e69d3972b.jpg",
+    "static/media/slider2.jpg": "/sakshi5g/reactsurvey/static/media/slider2.c88ccaa70c51aab4171e.jpg",
+    "static/media/bgImg.jpg": "/sakshi5g/reactsurvey/static/media/bgImg.f9e8085d674056f749c4.jpg",
+    "static/media/card1.jpg": "/sakshi5g/reactsurvey/static/media/card1.8676908fdc2ae2af32aa.jpg",
+    "static/media/card2.jpg": "/sakshi5g/reactsurvey/static/media/card2.6e077a2fd4b427cce699.jpg",
+    "static/media/card3.jpg": "/sakshi5g/reactsurvey/static/media/card3.313f8eb693038a5e4a62.jpg",
+    "index.html": "/sakshi5g/reactsurvey/index.html",
+    "main.6f637ab6.css.map": "/sakshi5g/reactsurvey/static/css/main.6f637ab6.css.map",
+    "main.136d6dd2.js.map": "/sakshi5g/reactsurvey/static/js/main.136d6dd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f637ab6.css",
+    "static/js/main.136d6dd2.js"
+  ]
+}
